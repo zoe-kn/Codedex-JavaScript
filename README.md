@@ -2,7 +2,7 @@
 
 🌍 Hello World
 
-Hier dokumentiere ich miene Lösungen zu verschiedenen Programmierübungen, die ich auf Codedex bearbeite, um meine JavaScript-Skills aufzubauen und zu verbessern.
+Here I document my solutions to various coding exercises from Codedex, which I work on to build and improve my JavaScript skills.
 
 ## 🗂️ Kapitel
 
